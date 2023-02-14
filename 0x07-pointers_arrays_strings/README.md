@@ -1,0 +1,1 @@
+We are continuing to go further into what pointers are and how to use them. We are also covering multidimensional arrays and their uses. To sum it up the most common C standard library functions to manipulate things.
