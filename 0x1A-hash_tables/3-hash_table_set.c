@@ -67,7 +67,7 @@ node->value = value;
 return (node);
 }
 /**
-* new_node - create a new node 
+* new_node - create a new node
 * @c_node: current node to add add at the end.
 *
 * Return: a point to the new node.
